@@ -1,4 +1,4 @@
-public class Shiftoperators {
+public class ShiftOperators {
     public static void main(String[] args) {
 
         int a = 5;
